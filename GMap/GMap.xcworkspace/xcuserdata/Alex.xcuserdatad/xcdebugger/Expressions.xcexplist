@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Dropbox_VC.sorted(items : [Dropbox_VC.Item]) -&gt; [Dropbox_VC.Item]:Dropbox_VC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "dropboxPath">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static GPX.loadArhiveLocations(arhiveName : String) -&gt; ():GPX.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "zx.arhivePath">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Settings_VC.loadViewsFromDefaults() -&gt; ():Settings_VC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "autorizeStatus.description">
+            </PersistentString>
+            <PersistentString
+               value = "autorizeStatus[&quot;dropBox&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChangeCloudForSave_VC.save() -&gt; ():ChangeCloudForSave_VC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cloudDrive">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static CloudSource.getPathFolder() -&gt; Bool:Cloud_adapter.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "CloudSource.storage">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Menu.setCellsMask() -&gt; ():Menu.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Track.status">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Menu2.tableView(UITableView, didSelectRowAt : IndexPath) -&gt; ():Menu2.swift">
+      </ContextState>
+      <ContextState
+         contextName = "dropboxInit() -&gt; ():DropboxInit.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "settings.dropboxLogin">
+            </PersistentString>
+            <PersistentString
+               value = "settings.dropbox">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static CloudSource.driveInit() -&gt; Bool:CloudSource.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "dropBox">
+            </PersistentString>
+            <PersistentString
+               value = "CRCloudRail.appKey()">
+            </PersistentString>
+            <PersistentString
+               value = "storageType">
+            </PersistentString>
+            <PersistentString
+               value = "cloudStorage">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "load(vc : MapViewController) -&gt; ():Load.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "settings">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Dropbox_VC.getDropboxFolder(path : String) -&gt; ():Dropbox_VC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sizes">
+            </PersistentString>
+            <PersistentString
+               value = "isFolders">
+            </PersistentString>
+            <PersistentString
+               value = "files">
+            </PersistentString>
+            <PersistentString
+               value = "items">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.printPathFolder() -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "result">
+            </PersistentString>
+            <PersistentString
+               value = "dirItems">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static CloudSource.isInit() -&gt; Bool:Cloud_adapter.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "settings.dropBoxLogin">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.(tableView(UITableView, didSelectRowAt : IndexPath) -&gt; ()).(closure #1).(closure #1):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cellText">
+            </PersistentString>
+            <PersistentString
+               value = "cloudDrive.path">
+            </PersistentString>
+            <PersistentString
+               value = "fileName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "mach_msg_trap:(null)">
+         <PersistentStrings>
+            <PersistentString
+               value = "settings">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Upload_VC.loadArhiveLocations(arhiveName : String) throws -&gt; ():Upload_VC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "zx.arhivePolyline.path?.count()">
+            </PersistentString>
+            <PersistentString
+               value = "zx.arhiveCoordinates">
+            </PersistentString>
+            <PersistentString
+               value = "zx.arhivePath.count()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Compass_VC.timerTick() -&gt; ():Compass_VC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "shouldAutorotate">
+            </PersistentString>
+            <PersistentString
+               value = " zx.polyline.count">
+            </PersistentString>
+            <PersistentString
+               value = "lengthKind">
+            </PersistentString>
+            <PersistentString
+               value = "zx.userLocations">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "specialized _fatalErrorMessage(StaticString, StaticString, StaticString, UInt, flags : UInt32) -&gt; Never:(null)">
+         <PersistentStrings>
+            <PersistentString
+               value = "settings">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MapViewController.plusButtonClick(Any) -&gt; ():Map_VC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "arhiveTrackPolyline.strokeColor">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MapViewController.viewWillAppear(Bool) -&gt; ():Map_VC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "bounds">
+            </PersistentString>
+            <PersistentString
+               value = "isFirstCoordinate">
+            </PersistentString>
+            <PersistentString
+               value = "settings.arhiveTrackStrokeColor">
+            </PersistentString>
+            <PersistentString
+               value = "zx.arhiveCoordinates">
+            </PersistentString>
+            <PersistentString
+               value = "arhiveTrackPolyline">
+            </PersistentString>
+            <PersistentString
+               value = "startArhivePosition">
+            </PersistentString>
+            <PersistentString
+               value = "archevePath">
+            </PersistentString>
+            <PersistentString
+               value = "settings.circleFillColor">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CloudDrive.childrenOfFolder(withPath : String) -&gt; [CloudDrive.DirItem]?:CloudDrive.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "path">
+            </PersistentString>
+            <PersistentString
+               value = "cloudStorage">
+            </PersistentString>
+            <PersistentString
+               value = "settings.autorizeStatus.description">
+            </PersistentString>
+            <PersistentString
+               value = "storageType">
+            </PersistentString>
+            <PersistentString
+               value = "withPath">
+            </PersistentString>
+            <PersistentString
+               value = "cloudDrive.path">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.viewDidAppear(Bool) -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "settings.autorizeStatus[cloudDrive.storageType]">
+            </PersistentString>
+            <PersistentString
+               value = "tryingAutorizeCloud">
+            </PersistentString>
+            <PersistentString
+               value = "cloudDrive.storageType">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static CloudSource.login(storage : CloudStorageProtocol) -&gt; Bool:CloudSource.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "storageType">
+            </PersistentString>
+            <PersistentString
+               value = "autorizeStatus[storageType]">
+            </PersistentString>
+            <PersistentString
+               value = "cloudStorage">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Popover_VC.loadView() -&gt; ():Popover_VC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Track.keyName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MapViewController.locationManager(CLLocationManager, didUpdateLocations : [CLLocation]) -&gt; ():Map_VC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "isFirstCoordinate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Menu.viewDidLoad() -&gt; ():Menu.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "stopRecordCell.subviews">
+            </PersistentString>
+            <PersistentString
+               value = "zx.userLocations.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CloudDrive.downloadFile(fileName : String, size : Int) -&gt; String?:CloudDrive.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cellText">
+            </PersistentString>
+            <PersistentString
+               value = "cloudDrive.path">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Menu_VC.(setCellsMask() -&gt; ()).(closure #1):Menu_VC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "map.userPath.length(of: kGMSLengthGeodesic)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.tableView(UITableView, didSelectRowAt : IndexPath) -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cloudDrive.path ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Dropbox_VC.gpxIsCorrect(gpx : String) -&gt; Bool:Dropbox_VC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "gpx.contains(&quot;trkseg&quot;)">
+            </PersistentString>
+            <PersistentString
+               value = "gpx.contains(&quot;trkpt&quot;)">
+            </PersistentString>
+            <PersistentString
+               value = "gpx.contains(&quot;trkseg&quot;) &amp;&amp; gpx.contains(&quot;trkpt&quot;) &amp;&amp; gpx.contains(&quot;lat&quot;)">
+            </PersistentString>
+            <PersistentString
+               value = "gpx.contains(&quot;lat&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Settings_VC.loadPickersFromDefaults() -&gt; ():Settings_VC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "dropboxLogin.text">
+            </PersistentString>
+            <PersistentString
+               value = "googleDriveLogin.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChangeCloudForSave_VC.onOneDriveClick(Any) -&gt; ():ChangeCloudForSave_VC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "(sender as! UIView).center">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CloudFileSystem_VC.tableView(UITableView, didSelectRowAt : IndexPath) -&gt; ():CloudFileSystem_VC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "CloudSource.dirItems">
+            </PersistentString>
+            <PersistentString
+               value = "CloudSource.dirItems[8].fileName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "loadSettingsFromDefaults() -&gt; ():loadSettingsFromDefaults.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "settings.centerPosition">
+            </PersistentString>
+            <PersistentString
+               value = "DEFAULTS.integer(forKey: &quot;accuracyColor&quot;)">
+            </PersistentString>
+            <PersistentString
+               value = "DEFAULTS.bool(forKey: &quot;centerPosition&quot;)">
+            </PersistentString>
+            <PersistentString
+               value = "DEFAULTS.string(forKey: &quot;dropboxLogin&quot;)">
+            </PersistentString>
+            <PersistentString
+               value = "DEFAULTS.integer(forKey: &quot;mapType&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChangeCloudForSave_VC.onScreenClick(Any) -&gt; ():ChangeCloudForSave_VC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "navigationController!.viewControllers">
+            </PersistentString>
+            <PersistentString
+               value = "vc.restorationIdentifier">
+            </PersistentString>
+            <PersistentString
+               value = "navigationController!.viewControllers[0].value(forKey: &quot;title&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Upload_VC.uploadToDropboxClick(Any) -&gt; ():Upload_VC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "settings.dropboxLogin">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Dropbox_VC.sortDirectory() -&gt; ():Dropbox_VC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "files">
+            </PersistentString>
+            <PersistentString
+               value = "isFolders">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Dropbox_VC.loadFromDropbox(filePath : String, fileName : String) -&gt; ():Dropbox_VC.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Dropbox_VC.tableView(UITableView, cellForRowAt : IndexPath) -&gt; UITableViewCell:Dropbox_VC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "files">
+            </PersistentString>
+            <PersistentString
+               value = "files[row]">
+            </PersistentString>
+            <PersistentString
+               value = "dirItems">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Dropbox_VC.tableView(UITableView, didSelectRowAt : IndexPath) -&gt; ():Dropbox_VC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "dropboxPath.endIndex, offsetBy: -(cellText.characters.count + 1)">
+            </PersistentString>
+            <PersistentString
+               value = "dropboxPath">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Dropbox_VC.getDropboxFolder(path : String) -&gt; [Dropbox_VC.Item]:Dropbox_VC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "folder">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MapViewController.animateToHeadMarker(Any) -&gt; ():Map_VC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "zx.userZoom">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

@@ -1,0 +1,12 @@
+platform :ios, '8.0'
+use_frameworks!
+
+def shared_pods
+    pod 'GoogleMaps', '2.1.1'
+#    pod 'cloudrail-si-ios-sdk', '5.4.3'
+
+end
+
+target 'GMap' do
+    shared_pods
+end

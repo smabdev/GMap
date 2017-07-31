@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GM_KEY</key>
+	<string>AIzaSyAUmJlCpmrlsXRFNu6Y4u40LvfHdWtpC2E</string>
+	<key>CR_API_KEY</key>
+	<string>59698f6d3f653358f8a1a2e0</string>
+	<key>DB_CLIENT_ID</key>
+	<string>ds6627imr0cgj8h</string>
+	<key>DB_SECRET</key>
+	<string>u41s16nzt4k35go</string>
+	<key>OD_CLIENT_ID</key>
+	<string>000000004018F12F</string>
+	<key>OD_SECRET</key>
+	<string>lGQPubehDO6eklir1GQmIuCPFfzwihMo</string>
+	<key>OD_REDIRECT_URL</key>
+	<string>https://www.cloudrailauth.com/auth</string>
+	<key>OD_STATE</key>
+	<string>onedrive.readwrite</string>
+	<key>GD_CLIENT_ID</key>
+	<string>447615200507-t4jmu3b7s5c11e6798ionr2emqprgo7t.apps.googleusercontent.com</string>
+	<key>GD_SECRET</key>
+	<string></string>
+	<key>GD_REDIRECT_URL</key>
+	<string>com.example.Alex.GMap:/oauth2redirect</string>
+	<key>GD_STATE</key>
+	<string>https://www.googleapis.com/auth/drive</string>
+</dict>
+</plist>
